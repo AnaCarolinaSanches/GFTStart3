@@ -1,0 +1,14 @@
+C:\Users\carol\source\repos\DiasVivo\bin\Debug\netcoreapp3.1\DiasVivo.exe
+C:\Users\carol\source\repos\DiasVivo\bin\Debug\netcoreapp3.1\DiasVivo.deps.json
+C:\Users\carol\source\repos\DiasVivo\bin\Debug\netcoreapp3.1\DiasVivo.runtimeconfig.json
+C:\Users\carol\source\repos\DiasVivo\bin\Debug\netcoreapp3.1\DiasVivo.runtimeconfig.dev.json
+C:\Users\carol\source\repos\DiasVivo\bin\Debug\netcoreapp3.1\DiasVivo.dll
+C:\Users\carol\source\repos\DiasVivo\bin\Debug\netcoreapp3.1\DiasVivo.pdb
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.csproj.AssemblyReference.cache
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.AssemblyInfoInputs.cache
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.AssemblyInfo.cs
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.csproj.CoreCompileInputs.cache
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.dll
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.pdb
+C:\Users\carol\source\repos\DiasVivo\obj\Debug\netcoreapp3.1\DiasVivo.genruntimeconfig.cache
